@@ -1,0 +1,10 @@
+C:\Users\Caitlin\source\repos\PRG521__FA3_Caitlin_Hermanus_20232198\bin\Debug\PRG521__FA3_Caitlin_Hermanus_20232198.exe.config
+C:\Users\Caitlin\source\repos\PRG521__FA3_Caitlin_Hermanus_20232198\bin\Debug\PRG521__FA3_Caitlin_Hermanus_20232198.exe
+C:\Users\Caitlin\source\repos\PRG521__FA3_Caitlin_Hermanus_20232198\bin\Debug\PRG521__FA3_Caitlin_Hermanus_20232198.pdb
+C:\Users\Caitlin\source\repos\PRG521__FA3_Caitlin_Hermanus_20232198\obj\Debug\PRG521__FA3_Caitlin_Hermanus_20232198.csproj.AssemblyReference.cache
+C:\Users\Caitlin\source\repos\PRG521__FA3_Caitlin_Hermanus_20232198\obj\Debug\PRG521__FA3_Caitlin_Hermanus_20232198.Form1.resources
+C:\Users\Caitlin\source\repos\PRG521__FA3_Caitlin_Hermanus_20232198\obj\Debug\PRG521__FA3_Caitlin_Hermanus_20232198.Properties.Resources.resources
+C:\Users\Caitlin\source\repos\PRG521__FA3_Caitlin_Hermanus_20232198\obj\Debug\PRG521__FA3_Caitlin_Hermanus_20232198.csproj.GenerateResource.cache
+C:\Users\Caitlin\source\repos\PRG521__FA3_Caitlin_Hermanus_20232198\obj\Debug\PRG521__FA3_Caitlin_Hermanus_20232198.csproj.CoreCompileInputs.cache
+C:\Users\Caitlin\source\repos\PRG521__FA3_Caitlin_Hermanus_20232198\obj\Debug\PRG521__FA3_Caitlin_Hermanus_20232198.exe
+C:\Users\Caitlin\source\repos\PRG521__FA3_Caitlin_Hermanus_20232198\obj\Debug\PRG521__FA3_Caitlin_Hermanus_20232198.pdb
